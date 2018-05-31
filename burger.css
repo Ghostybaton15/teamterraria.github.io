@@ -1,0 +1,169 @@
+.nav {
+    margin-top: 4px;
+    text-align: center;
+}
+.nav a {
+    background-color: red;
+    border-radius: 1px;
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 20px;
+    font-weight: 300;s
+    display: inline-block;
+    margin: 6px;
+    padding: 6px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #dd954d;
+}
+header {
+    background-color: #f79204;
+    border: 2px solid;
+    border-color: red;
+    border-radius: 4px;
+    height: 25%;
+}
+.title {
+    text-align: center;
+    color: black;
+    font-size: 54px;
+    height: 50px;
+    
+}
+body {
+    background-image: url(https://previews.123rf.com/images/seralexvi/seralexvi1507/seralexvi150700080/43168736-fresh-lettuce-leaf-closeup-food-background.jpg);
+}
+    
+.grid1 {
+    display: grid;
+    border: 2px blue solid;
+    height: 40%;
+    width: 100%;
+}
+grid2 {
+    display: grid;
+    border: 2px blue solid;
+    height: 70%;
+    width: 100%;
+    grid-template: 2fr 2fr 1fr / 30% 30% 30%;
+    grid-gap: 5px 5px;
+}
+.grid3 {
+    display: grid;
+    border: 2px blue solid;
+    height: 10%;
+    width: 80%;
+    grid-template: 1fr 30% / 30% 30% 30%;
+    grid-gap: 5px 5px;
+    text-align: center;
+}
+.grid4 {
+    display: grid;
+    border: 2px blue solid;
+    height: 70%;
+    width: 100%;
+    text-align: center;
+    grid-template: 30% 30% 30%;
+}
+grid6 {
+    display: grid;
+    border: 2px blue solid;
+    height: 70%;
+    width: 100%;
+    grid-template: 2fr 2fr 1fr / 30% 30% 30%;
+    grid-gap: 5px 5px;
+}
+.grid7 {
+    display: grid;
+    border: 2px blue solid;
+    height: 10%;
+    width: 80%;
+    grid-template: 1fr 30% / 30% 30% 30%;
+    grid-gap: 5px 5px;
+    text-align: center;
+}
+}
+.p1 {
+    font-size: 16px;
+    text-align: center;
+    color: blue;
+    border: 2px solid;
+    border-color: #136adb;
+    border-radius: 4px;
+    display: inline-block;
+    background-color: orange;
+    font-family: cursive;
+    font-style: italic;
+    float: left;
+}
+.p2 {
+    font-size: 16px;
+    text-align: center;
+    color: blue;
+    border: 2px solid;
+    border-color: #136adb;
+    border-radius: 4px;
+    display: inline-block;
+    background-color: orange;
+    font-family: cursive;
+    font-style: italic;
+    float: right;
+}
+.box {
+    background-color: beige;
+    color: black;
+    border-radius: 5px;
+    border: 2px dodgerblue solid;
+}
+.p3 {
+    font-size: 16px;
+    text-align: center;
+    color: blue;
+    border: 2px solid;
+    border-color: #136adb;
+    border-radius: 4px;
+    display: inline-block;
+    background-color: #1993d1;
+    font-family: cursive;
+    font-style: italic;
+    float: left;
+}
+.p4 {
+    font-size: 16px;
+    text-align: center;
+    color: blue;
+    border: 2px solid;
+    border-color: #136adb;
+    border-radius: 4px;
+    display: inline-block;
+    background-color: #1993d1;
+    font-family: cursive;
+    font-style: italic;
+    float: right;
+}
+.p5 {
+    font-size: 16px;
+    text-align: center;
+    color: blue;
+    border: 2px solid;
+    border-color: #136adb;
+    border-radius: 4px;
+    display: inline-block;
+    background-color: #1993d1;
+    font-family: cursive;
+    font-style: italic;
+    float: left;
+}
+.p6 {
+    font-size: 16px;
+    text-align: center;
+    color: blue;
+    border: 2px solid;
+    border-color: #136adb;
+    border-radius: 4px;
+    display: inline-block;
+    background-color: #1993d1;
+    font-family: cursive;
+    font-style: italic;
+    float: right;
+}
